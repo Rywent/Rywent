@@ -6,8 +6,6 @@
 
 ### WPF Desktop Application Developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Rywent&label=Profile views&color=0e75b6&style=flat" alt="Rywent" /> </p>
-
 - 🔭 I'm currently working on **TableFlow is a convenient database manager.**
 
 - 🌱 I'm currently learning **WPF, Avalonia UI**
