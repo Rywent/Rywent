@@ -10,7 +10,7 @@
 
 - 🌱 I'm currently learning **WPF, Avalonia UI**
 
-- 👯 I'm looking to collaborate on **open source desktop projects**
+- 👀 I'm looking to collaborate on **open source desktop projects**
 
 - 📫 How to reach me **yakuzmin3@gmail.com**
 
