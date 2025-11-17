@@ -1,7 +1,7 @@
 # Hi 👋, I'm Rywent 
 
 <p align="center">
-  <img src="https://private-user-images.githubusercontent.com/74038190/240885606-f606466f-4cc9-4cb1-8ad6-80a7eeea9e7e.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjMzMTU4NDUsIm5iZiI6MTc2MzMxNTU0NSwicGF0aCI6Ii83NDAzODE5MC8yNDA4ODU2MDYtZjYwNjQ2NmYtNGNjOS00Y2IxLThhZDYtODBhN2VlZWE5ZTdlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTExMTYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMTE2VDE3NTIyNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTY5ZGNlOGEyZGU1NzVkYjk1NzBiMjNlMmUxYTRhYWRmZDk2NWYxOGJiZTk0NWQ0Mjc2ZDFmNzc1NWIyODIzYmQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.Dq2kes2yKHTN4aZys0S2k7oZxx16KQvGBtXh7_scq2A" alt="Fight Club" width="600" />
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/f606466f-4cc9-4cb1-8ad6-80a7eeea9e7e" alt="Fight Club" width="600" />
 </p>
 
 ### WPF Desktop Application Developer
