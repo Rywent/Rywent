@@ -12,7 +12,7 @@
 
 - 👀 I'm looking to collaborate on **open source desktop projects**
 
-- 📫 How to reach me **yakuzmin3@gmail.com**
+- 📫 How to reach me in Telegram **@Ryweent**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
