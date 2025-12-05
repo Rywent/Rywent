@@ -6,7 +6,7 @@
 
 ### WPF Desktop Application Developer
 
-- 🔭 I'm currently working on **TableFlow is a convenient database manager.**
+- 🔭 I'm currently working on **WinTrayMemory - process monitoring and RAM cleaning.**
 
 - 🌱 I'm currently learning **WPF, Avalonia UI**
 
