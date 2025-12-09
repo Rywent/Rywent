@@ -60,5 +60,5 @@
 </p>
 
 <!-- GitHub Stats -->
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/693723bbf33145208b6a35a9?variant=dark&roadmaps=aspnet-core" alt="roadmap.sh"/></a>
+<a href="https://roadmap.sh/aspnet-core?s=693723bbf33145208b6a35a9"><img src="https://roadmap.sh/card/tall/693723bbf33145208b6a35a9?variant=dark&roadmaps=aspnet-core" alt="roadmap.sh"/></a>
 
