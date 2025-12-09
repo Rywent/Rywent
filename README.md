@@ -8,9 +8,9 @@
 
 - 🔭 I'm currently working on **WinTrayMemory - process monitoring and RAM cleaning.**
 
-- 🌱 I'm currently learning **WPF, Avalonia UI**
+- 🌱 I'm currently learning **WPF, Asp.Net, Backend development**
 
-- 👀 I'm looking to collaborate on **open source desktop projects**
+- 👀 I'm looking to collaborate on **open source projects**
 
 - 📫 How to reach me in Telegram **@Ryweent**
 
