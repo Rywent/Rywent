@@ -59,6 +59,8 @@
   </a>
 </p>
 
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/693723bbf33145208b6a35a9?variant=dark&roadmaps=aspnet-core" alt="roadmap.sh"/></a>
+
 <!-- GitHub Stats -->
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rywent&show_icons=true&locale=en&layout=compact" alt="Rywent" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rywent&show_icons=true&locale=en" alt="Rywent" /></p>
