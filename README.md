@@ -8,13 +8,12 @@
 
 ### WPF Desktop Application Developer
 
-- 🔭 I'm currently working on **WinTrayMemory - process monitoring and RAM cleaning.**
+🚀 What I'm doing
 
-- 🌱 I'm currently learning **WPF, Asp.Net, Backend development**
-
-- 👀 I'm looking to collaborate on **open source projects**
-
-- 📫 How to reach me in Telegram **@Ryweent**
+- 🔭 Building **WinTrayMemory** – tray tool for process monitoring and smart RAM cleanup.  
+- 🌱 Leveling up in **WPF, ASP.NET & backend architecture**.  
+- 👀 Open to collaborating on interesting **open‑source utilities and tools**.  
+- 📫 Telegram: **@Ryweent**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
