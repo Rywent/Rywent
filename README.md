@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Rywent;C%23+%26+WPF+Developer;Building+Backend+Solutions" alt="Rywent Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Console.WriteLine(%22Rywent%22);C%23+%26+WPF+Developer;Building+Backend+Solutions" alt="Rywent Typing" />
 </div>
 
 <p align="center">
