@@ -1,19 +1,12 @@
 <div align="center">
-  <!-- Оболочка терминала -->
-  <div style="background-color: #000000; border-radius: 8px; padding: 20px; width: 100%; max-width: 900px; text-align: left; font-family: 'JetBrains Mono', monospace;">
+  <div style="background-color: #000000; border-radius: 8px; padding: 20px; width: 100%; max-width: 900px; text-align: left;">
     <div style="margin-bottom: 20px;">
       <span style="display:inline-block; width:12px; height:12px; background:#FF5F56; border-radius:50%; margin-right:8px;"></span>
       <span style="display:inline-block; width:12px; height:12px; background:#FFBD2E; border-radius:50%; margin-right:8px;"></span>
       <span style="display:inline-block; width:12px; height:12px; background:#27C93F; border-radius:50%;"></span>
     </div>
-    <div style="display: flex; align-items: center;">
-      <img src="https://img.shields.io/badge/rywent@dev:~/api_$-000000?style=flat-square&labelColor=000000&color=000000&logoColor=white" alt="Prompt" style="height: 25px; margin-right: 10px;" />
-      <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=00FF7F&background=00000000&center=false&vCenter=true&width=600&height=28&lines=dotnet+run;git+commit+-m+%22Hotfix%22;docker-compose+up+-d;Connect-Database" alt="Typing" />
-    </div>
-    <div style="color: #A9B7C6; font-size: 16px; margin-top: 10px; margin-left: 5px;">
-      Build succeeded. <span style="color: #27C93F">✓</span><br>
-      Listening on http://localhost:5000...
-    </div>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=4000&pause=1000&color=00FF7F&background=000000&center=false&vCenter=true&width=800&height=300&lines=rywent%40dev%3A~%2Fapi+%24+Console.WriteLine(%22Rywent%22);rywent%40dev%3A~%2Fapi+%24+var+dev+%3D+new+Developer(%22C%23%22);rywent%40dev%3A~%2Fapi+%24+InitializeComponent();rywent%40dev%3A~%2Fapi+%24+SELECT+*+FROM+Skills;rywent%40dev%3A~%2Fapi+%24+dotnet+run+Backend.csproj;rywent%40dev%3A~%2Fapi+%24+Ready+to+code..." 
+         alt="Rywent Console" />
   </div>
 </div>
 
