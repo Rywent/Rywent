@@ -56,7 +56,9 @@
   <h3>🐍 Contribution Activity</h3>
   <img src="https://github.com/Rywent/Rywent/raw/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </div>
-
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rywent&style=flat-square&color=007FFF" alt="Profile views" />
+</div>
 <!-- GitHub Stats -->
 <div align="center">
   <details>
