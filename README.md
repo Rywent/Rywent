@@ -14,7 +14,7 @@
 <table border="0" width="100%">
   <tr>
     <td width="55%" valign="top">
-      <h3 align="left">⚡ What I'm doing</h3>
+      <h3 align="left"><font color="#007FFF">What I'm doing</font></h3>
       <ul>
         <li>🔭 Building <b>WinTrayMemory</b> – tray tool for process monitoring and smart RAM cleanup.</li>
         <li>🌱 Leveling up in <b>WPF, ASP.NET & backend architecture</b>.</li>
