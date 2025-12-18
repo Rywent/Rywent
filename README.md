@@ -1,19 +1,9 @@
-<div align="center">
-  <svg width="100%" height="120" viewBox="0 0 1000 120" xmlns="http://www.w3.org/2000/svg">
-    <rect x="0" y="0" width="1000" height="120" rx="10" ry="10" fill="#0d1117" />
-    <rect x="0" y="0" width="1000" height="30" rx="10" ry="10" fill="#161b22" />
-    <rect x="0" y="20" width="1000" height="10" fill="#161b22" />
-    <circle cx="20" cy="15" r="6" fill="#ff5f56" />
-    <circle cx="40" cy="15" r="6" fill="#ffbd2e" />
-    <circle cx="60" cy="15" r="6" fill="#27c93f" />
-    <text x="500" y="20" text-anchor="middle" fill="#8b949e" font-family="Consolas, monospace" font-size="14">root@server: ~/github/Rywent</text>
-    <foreignObject x="0" y="40" width="1000" height="80">
-      <div xmlns="http://www.w3.org/1999/xhtml">
-        <img src="https://readme-typing-svg.demolab.com?font=VT323&size=30&pause=1000&color=00FF7F&background=00000000&center=false&vCenter=true&width=1000&height=50&separator=%7C&lines=%E2%A0%80%E2%A0%80%24+Console.WriteLine(%22Rywent%22);|%E2%A0%80%E2%A0%80%24+var+dev+%3D+new+Developer(%22C%23%22);|%E2%A0%80%E2%A0%80%24+InitializeComponent();|%E2%A0%80%E2%A0%80%24+SELECT+*+FROM+Skills;|%E2%A0%80%E2%A0%80%24+dotnet+run+Backend.csproj|%E2%A0%80%E2%A0%80%24+Ready+to+code..." alt="Rywent Console" width="100%" />
-      </div>
-    </foreignObject>
-  </svg>
+<div align="left" style="background-color: #000000; padding: 10px; border-radius: 10px; font-family: 'Consolas', monospace; color: white;">
+  <span>&nbsp;&nbsp;root@server: ~/github/Rywent</span>
+  <br />
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=30&pause=1000&color=00FF7F&background=000000&center=false&vCenter=true&width=1000&separator=%7C&lines=%E2%A0%80%E2%A0%80%24+Console.WriteLine(%22Rywent%22);|%E2%A0%80%E2%A0%80%24+var+dev+%3D+new+Developer(%22C%23%22);|%E2%A0%80%E2%A0%80%24+InitializeComponent();|%E2%A0%80%E2%A0%80%24+SELECT+*+FROM+Skills;|%E2%A0%80%E2%A0%80%24+dotnet+run+Backend.csproj|%E2%A0%80%E2%A0%80%24+Ready+to+code..." alt="Rywent Console" width="100%" />
 </div>
+
 
 
 <br />
