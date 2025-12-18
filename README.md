@@ -12,18 +12,6 @@
 
 ### WPF Desktop Application Developer
 
-🚀 What I'm doing
-
-- 🔭 Building **WinTrayMemory** – tray tool for process monitoring and smart RAM cleanup.  
-- 🌱 Leveling up in **WPF, ASP.NET & backend architecture**.  
-- 👀 Open to collaborating on interesting **open‑source utilities and tools**.  
-- 📫 Telegram: **@Ryweent**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/Rywent" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Rywent" height="30" width="40" /></a>
-</p>
-
 <table border="0" width="100%">
   <tr>
     <td width="55%" valign="top">
@@ -50,7 +38,7 @@
     </td>
     <td width="45%" valign="top">
       <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Rywent&show_icons=true&count_private=true&hide_border=true&title_color=00FF7F&icon_color=00FF7F&text_color=ffffff&bg_color=0d1117&hide_rank=true" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Ryweent&show_icons=true&count_private=true&hide_border=true&title_color=00FF7F&icon_color=00FF7F&text_color=ffffff&bg_color=0d1117&hide_rank=true" width="100%" />
         <br>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rywent&layout=compact&hide_border=true&title_color=00FF7F&text_color=ffffff&bg_color=0d1117" width="100%" />
       </div>
@@ -60,9 +48,4 @@
 
 <!-- GitHub Stats -->
 <a href="https://roadmap.sh/aspnet-core?s=693723bbf33145208b6a35a9"><img src="https://roadmap.sh/card/tall/693723bbf33145208b6a35a9?variant=dark&roadmaps=aspnet-core" alt="Asp.Net roadmap.sh"/></a>
-
-<div align="Left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rywent&show_icons=true&count_private=true&hide_border=true&title_color=00FF7F&icon_color=00FF7F&text_color=ffffff&bg_color=0d1117" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rywent&layout=compact&hide_border=true&title_color=00FF7F&text_color=ffffff&bg_color=0d1117" height="150" alt="languages graph" />
-</div>
 
