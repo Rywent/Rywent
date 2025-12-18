@@ -15,7 +15,7 @@ jobs:
         run: |
           TS=$(date +%s)
           
-          sed -i -E "s/(roadmaps=aspnet-core\?v=)[0-9]+/\1$TS/" README.md
+          sed -i -E "s/(roadmaps=aspnet-core\&v=)[0-9]+/\1$TS/" README.md
           
       - name: Commit and Push
         run: |
