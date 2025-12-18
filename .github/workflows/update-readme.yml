@@ -1,0 +1,25 @@
+name: Update Roadmap Cache
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: Update Roadmap URL with Timestamp
+        run: |
+          TS=$(date +%s)
+          
+          sed -i -E "s/(roadmaps=aspnet-core\?v=)[0-9]+/\1$TS/" README.md
+          
+      - name: Commit and Push
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git commit -am "chore: update roadmap cache timestamp" || exit 0
+          git push
