@@ -1,7 +1,8 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=30&pause=1000&color=00FF7F&background=000000&center=true&vCenter=true&width=500&separator=%7C&lines=%3E+Console.WriteLine(%22Rywent%22);|%3E+C%23+%2F+WPF+%2F+ASP.NET+backend|%3E+Ready+to+code..."     alt="Rywent Console" />
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=30&pause=1000&color=00FF7F&background=000000&center=false&vCenter=true&width=600&separator=%7C&lines=%24+Console.WriteLine(%22Rywent%22);|%24+C%23+%2F+WPF+%2F+ASP.NET+backend|%24+Ready+to+code..." alt="Rywent Console" />
 </div>
 
+<br />
 
 <p align="center">
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/f606466f-4cc9-4cb1-8ad6-80a7eeea9e7e" alt="Fight Club" width="600" />
