@@ -12,7 +12,7 @@
 <h3 align="center">💎 WPF Desktop & Backend Developer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rywent&style=flat-square&label=Views&color=eff3f6&labelColor=eff3f6&font=Segoe%20UI" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Rywent&style=flat-square&color=007FFF&label=Views" alt="Views" />
   &nbsp;
   <a href="https://github.com/Rywent">
     <img src="https://img.shields.io/github/followers/Rywent?label=Follow&style=social" alt="GitHub followers" />
