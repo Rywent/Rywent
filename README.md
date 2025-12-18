@@ -1,8 +1,7 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&pause=1000&color=00FF7F&background=000000&center=false&vCenter=true&width=1000&height=50&separator=%7C&lines=%E2%A0%80%E2%A0%80%24+Console.WriteLine(%22Rywent%22);|%E2%A0%80%E2%A0%80%24+var+dev+%3D+new+Developer(%22C%23%22);|%E2%A0%80%E2%A0%80%24+InitializeComponent();|%E2%A0%80%E2%A0%80%24+SELECT+*+FROM+Skills;|%E2%A0%80%E2%A0%80%24+dotnet+run+Backend.csproj|%E2%A0%80%E2%A0%80%24+Ready+to+code..." 
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&pause=1000&color=007FFF&background=000000&center=false&vCenter=true&width=1000&height=50&separator=%7C&lines=%E2%A0%80%E2%A0%80%24+Console.WriteLine(%22Rywent%22);|%E2%A0%80%E2%A0%80%24+var+dev+%3D+new+Developer(%22C%23%22);|%E2%A0%80%E2%A0%80%24+InitializeComponent();|%E2%A0%80%E2%A0%80%24+SELECT+*+FROM+Skills;|%E2%A0%80%E2%A0%80%24+dotnet+run+Backend.csproj|%E2%A0%80%E2%A0%80%24+Ready+to+code..." 
        alt="Rywent Console" style="width: 100%; max-width: 1000px; display: block; margin: 0 auto;" />
 </div>
-
 
 <br />
 
@@ -38,23 +37,23 @@
     </td>
     <td width="45%" valign="top">
       <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Rywent&show_icons=true&count_private=true&hide_border=true&title_color=00FF7F&icon_color=00FF7F&text_color=ffffff&bg_color=0d1117&hide_rank=true" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Rywent&show_icons=true&count_private=true&hide_border=true&title_color=007FFF&icon_color=007FFF&text_color=ffffff&bg_color=0d1117&hide_rank=true" width="100%" />
         <br>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rywent&layout=compact&hide_border=true&title_color=00FF7F&text_color=ffffff&bg_color=0d1117" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rywent&layout=compact&hide_border=true&title_color=007FFF&text_color=ffffff&bg_color=0d1117" width="100%" />
       </div>
     </td>
   </tr>
 </table>
 
-<h3 align="center">💻 Featured Projects</h3>
+<h3 align="left">💻 Featured Projects</h3>
 <div align="left">
   <a href="https://github.com/Rywent/WinTrayMemory">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rywent&repo=WinTrayMemory&title_color=00FF7F&icon_color=00FF7F&text_color=ffffff&bg_color=161b22&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rywent&repo=WinTrayMemory&title_color=007FFF&icon_color=007FFF&text_color=ffffff&bg_color=161b22&hide_border=true" />
   </a>
 </div>
 
 <div align="center">
-  <h3>🐍 Contribution Activity</h3>
+  <b>🐍 Contribution Activity</b>
   <img src="https://github.com/Rywent/Rywent/raw/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </div>
 
@@ -68,4 +67,3 @@
     </a>
   </details>
 </div>
-
