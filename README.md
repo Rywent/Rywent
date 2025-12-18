@@ -45,7 +45,7 @@
   </tr>
 </table>
 
-<h3 align="left">💻 Featured Projects</h3>
+<h3 align="center">💻 Featured Projects</h3>
 <div align="left">
   <a href="https://github.com/Rywent/WinTrayMemory">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rywent&repo=WinTrayMemory&title_color=007FFF&icon_color=007FFF&text_color=ffffff&bg_color=161b22&hide_border=true" />
