@@ -10,7 +10,7 @@
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/f606466f-4cc9-4cb1-8ad6-80a7eeea9e7e" alt="Fight Club" width="600" />
 </p>
 
-### WPF Desktop Application Developer
+<h3 align="center">👨‍💻 WPF Desktop & Backend Developer</h3>
 
 <table border="0" width="100%">
   <tr>
@@ -46,12 +46,28 @@
   </tr>
 </table>
 
+<h3 align="center">💻 Featured Projects</h3>
 <div align="center">
-  <b>🐍 Contribution Activity</b>
-  <br>
-  <img src="https://github.com/Rywent/Rywent/raw/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  <a href="https://github.com/Rywent/WinTrayMemory">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rywent&repo=WinTrayMemory&title_color=00FF7F&icon_color=00FF7F&text_color=ffffff&bg_color=0d1117&hide_border=true" />
+  </a>
+</div>
+<br>
+
+
+<h3 align="center">🐍 Contribution Activity</h3>
+<div align="center">
+<img src="https://github.com/Rywent/Rywent/raw/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </div>
 
 <!-- GitHub Stats -->
-<a href="https://roadmap.sh/aspnet-core?s=693723bbf33145208b6a35a9"><img src="https://roadmap.sh/card/tall/693723bbf33145208b6a35a9?variant=dark&roadmaps=aspnet-core" alt="Asp.Net roadmap.sh"/></a>
+<div align="center">
+  <details>
+    <summary><b>🗺️ Click to see my ASP.NET Learning Progress</b></summary>
+    <br>
+    <a href="https://roadmap.sh/aspnet-core?s=693723bbf33145208b6a35a9">
+      <img src="https://roadmap.sh/card/tall/693723bbf33145208b6a35a9?variant=dark&roadmaps=aspnet-core" alt="Asp.Net roadmap.sh"/>
+    </a>
+  </details>
+</div>
 
