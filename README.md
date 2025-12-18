@@ -1,8 +1,7 @@
 <div align="center">
-  <div align="left" style="width: 1000px; margin: 0 auto;">
-      <img src="https://img.shields.io/badge/root%40server%3A%20~%2Fgithub%2FRywent-000000?style=flat-square&labelColor=000000&color=000000&logoColor=white" alt="Terminal Header" />
-  </div>
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=30&pause=1000&color=00FF7F&background=000000&center=false&vCenter=true&width=1000&height=50&separator=%7C&lines=%E2%A0%80%E2%A0%80%24+Console.WriteLine(%22Rywent%22);|%E2%A0%80%E2%A0%80%24+var+dev+%3D+new+Developer(%22C%23%22);|%E2%A0%80%E2%A0%80%24+InitializeComponent();|%E2%A0%80%E2%A0%80%24+SELECT+*+FROM+Skills;|%E2%A0%80%E2%A0%80%24+dotnet+run+Backend.csproj|%E2%A0%80%E2%A0%80%24+Ready+to+code..." alt="Rywent Console" width="100%" />
+  <div align="left" style="width: 1000px; margin: 0 auto; padding-left: 20px;">
+    <img src="https://img.shields.io/badge/root%40server%3A%20~%2Fgithub%2FRywent-000000?style=flat-square&labelColor=000000&color=000000&logoColor=white" alt="Terminal Header" />
+  </div><img src="https://readme-typing-svg.demolab.com?font=VT323&size=30&pause=1000&color=00FF7F&background=000000&center=false&vCenter=true&width=1000&height=50&separator=%7C&lines=%E2%A0%80%E2%A0%80%24+Console.WriteLine(%22Rywent%22);|%E2%A0%80%E2%A0%80%24+var+dev+%3D+new+Developer(%22C%23%22);|%E2%A0%80%E2%A0%80%24+InitializeComponent();|%E2%A0%80%E2%A0%80%24+SELECT+*+FROM+Skills;|%E2%A0%80%E2%A0%80%24+dotnet+run+Backend.csproj|%E2%A0%80%E2%A0%80%24+Ready+to+code..." alt="Rywent Console" width="100%" />
 </div>
 
 <br />
