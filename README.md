@@ -60,6 +60,9 @@
 
 <!-- GitHub Stats -->
 <a href="https://roadmap.sh/aspnet-core?s=693723bbf33145208b6a35a9"><img src="https://roadmap.sh/card/tall/693723bbf33145208b6a35a9?variant=dark&roadmaps=aspnet-core" alt="Asp.Net roadmap.sh"/></a>
-<img src="https://github-readme-stats.vercel.app/api?username=Rywent&show_icons=true&count_private=true&hide_border=true&title_color=00FF7F&icon_color=00FF7F&text_color=ffffff&bg_color=0d1117" height="150" alt="stats graph" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rywent&layout=compact&hide_border=true&title_color=00FF7F&text_color=ffffff&bg_color=0d1117" height="150" alt="languages graph" />
+
+<div align="Left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rywent&show_icons=true&count_private=true&hide_border=true&title_color=00FF7F&icon_color=00FF7F&text_color=ffffff&bg_color=0d1117" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rywent&layout=compact&hide_border=true&title_color=00FF7F&text_color=ffffff&bg_color=0d1117" height="150" alt="languages graph" />
+</div>
 
