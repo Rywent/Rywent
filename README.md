@@ -10,12 +10,6 @@
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/f606466f-4cc9-4cb1-8ad6-80a7eeea9e7e" alt="Fight Club" width="600" />
 </p>
 
-<!-- 'fds -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rywent&show_icons=true&count_private=true&hide_border=true&title_color=00FF7F&icon_color=00FF7F&text_color=ffffff&bg_color=0d1117" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rywent&layout=compact&hide_border=true&title_color=00FF7F&text_color=ffffff&bg_color=0d1117" height="150" alt="languages graph" />
-</div>
-
 ### WPF Desktop Application Developer
 
 🚀 What I'm doing
@@ -66,4 +60,6 @@
 
 <!-- GitHub Stats -->
 <a href="https://roadmap.sh/aspnet-core?s=693723bbf33145208b6a35a9"><img src="https://roadmap.sh/card/tall/693723bbf33145208b6a35a9?variant=dark&roadmaps=aspnet-core" alt="Asp.Net roadmap.sh"/></a>
+<img src="https://github-readme-stats.vercel.app/api?username=Rywent&show_icons=true&count_private=true&hide_border=true&title_color=00FF7F&icon_color=00FF7F&text_color=ffffff&bg_color=0d1117" height="150" alt="stats graph" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rywent&layout=compact&hide_border=true&title_color=00FF7F&text_color=ffffff&bg_color=0d1117" height="150" alt="languages graph" />
 
