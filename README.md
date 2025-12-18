@@ -24,12 +24,13 @@
 <a href="https://github.com/Rywent" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Rywent" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">🛠 Languages & Tools</h3>
-<div align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,git,github,postgres,sqlite,figma,unity&theme=dark" />
-  </a>
-</div>
+<h3 align="left">🛠 Stack</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=c-sharp&logoColor=00FF7F" />
+  <img src="https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=dotnet&logoColor=00FF7F" />
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=00FF7F" />
+  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=00FF7F" />
+</p>
 
 <!-- GitHub Stats -->
 <a href="https://roadmap.sh/aspnet-core?s=693723bbf33145208b6a35a9"><img src="https://roadmap.sh/card/tall/693723bbf33145208b6a35a9?variant=dark&roadmaps=aspnet-core" alt="Asp.Net roadmap.sh"/></a>
