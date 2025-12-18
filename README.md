@@ -1,5 +1,5 @@
-<div align="center" style="background-color:#000000; padding:16px; border-radius:8px;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF7F&center=true&vCenter=true&width=500&lines=$+Console.WriteLine(%22Rywent%22);$+C%23+%2F+WPF+%2F+ASP.NET+backend;$+Ready+to+code..." alt="terminal" />
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=30&pause=1000&color=00FF7F&background=000000&center=true&vCenter=true&width=500&separator=%7C&lines=%3E+Console.WriteLine(%22Rywent%22);|%3E+C%23+%2F+WPF+%2F+ASP.NET+backend|%3E+Ready+to+code..."     alt="Rywent Console" />
 </div>
 
 
