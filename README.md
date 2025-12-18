@@ -27,7 +27,7 @@
 <h3 align="left">🛠 Languages & Tools</h3>
 <div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,git,github,postgres,sqlite,nginx,figma,unity&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,git,github,postgres,sqlite,figma,unity&theme=dark" />
   </a>
 </div>
 
