@@ -31,14 +31,14 @@
         <a href="https://github.com/Rywent" target="_blank">
           <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
         </a>
-        <a href="https://t.me/Rywent" target="_blank">
+        <a href="https://t.me/Ryweent" target="_blank">
           <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
         </a>
       </p>
     </td>
     <td width="45%" valign="top">
       <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Ryweent&show_icons=true&count_private=true&hide_border=true&title_color=00FF7F&icon_color=00FF7F&text_color=ffffff&bg_color=0d1117&hide_rank=true" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Rywent&show_icons=true&count_private=true&hide_border=true&title_color=00FF7F&icon_color=00FF7F&text_color=ffffff&bg_color=0d1117&hide_rank=true" width="100%" />
         <br>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rywent&layout=compact&hide_border=true&title_color=00FF7F&text_color=ffffff&bg_color=0d1117" width="100%" />
       </div>
