@@ -54,7 +54,7 @@
 </div>
 
 <div align="center">
-  <b>🐍 Contribution Activity</b>
+  <h3>🐍 Contribution Activity</h3>
   <img src="https://github.com/Rywent/Rywent/raw/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </div>
 
