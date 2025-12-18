@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=33FF00&background=000000&center=false&vCenter=true&width=1000&height=60&margin=20&lines=root%40server%3A~%2Fgithub%2FRywent+%24+Console.WriteLine(%22Rywent%22);|root%40server%3A~%2Fgithub%2FRywent+%24+var+dev+%3D+new+Developer(%22C%23%22);|root%40server%3A~%2Fgithub%2FRywent+%24+InitializeComponent();|root%40server%3A~%2Fgithub%2FRywent+%24+SELECT+*+FROM+Skills;|root%40server%3A~%2Fgithub%2FRywent+%24+dotnet+run+Backend.csproj|root%40server%3A~%2Fgithub%2FRywent+%24+Ready+to+code..." 
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=33FF00&background=000000&center=false&vCenter=true&width=1000&height=60&margin=20&lines=root%40server%3A~%2Fgithub%2FRywent+%24+Console.WriteLine(%22Rywent%22)%3B;root%40server%3A~%2Fgithub%2FRywent+%24+var+dev+%3D+new+Developer(%22C%23%22)%3B;root%40server%3A~%2Fgithub%2FRywent+%24+InitializeComponent()%3B;root%40server%3A~%2Fgithub%2FRywent+%24+SELECT+*+FROM+Skills%3B;root%40server%3A~%2Fgithub%2FRywent+%24+dotnet+run+Backend.csproj;root%40server%3A~%2Fgithub%2FRywent+%24+Ready+to+code..." 
        alt="Rywent Console" style="width: 100%; max-width: 1000px; display: block; margin: 0 auto; border-radius: 8px;" />
 </div>
 
