@@ -11,6 +11,22 @@
 
 <h3 align="center">💎 WPF Desktop & Backend Developer</h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rywent&style=flat-square&color=007FFF" alt="Profile views" />
+  
+  &nbsp; &nbsp;
+  
+  <a href="https://github.com/Rywent?tab=followers">
+    <img src="https://img.shields.io/github/followers/Rywent?label=Follow&style=social" alt="GitHub followers" />
+  </a>
+
+  &nbsp; &nbsp; 
+
+  <a href="https://github.com/Rywent?tab=repositories">
+    <img src="https://img.shields.io/github/stars/Rywent?style=social" alt="Total Stars" />
+  </a>
+</p>
+
 <table border="0" width="100%">
   <tr>
     <td width="55%" valign="top">
@@ -56,9 +72,7 @@
   <h3>🐍 Contribution Activity</h3>
   <img src="https://github.com/Rywent/Rywent/raw/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </div>
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rywent&style=flat-square&color=007FFF" alt="Profile views" />
-</div>
+
 <!-- GitHub Stats -->
 <div align="center">
   <details>
