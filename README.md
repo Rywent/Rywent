@@ -24,39 +24,12 @@
 <a href="https://github.com/Rywent" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Rywent" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages & Tools</h3>
-<p align="left">
+<h3 align="left">🛠 Languages & Tools</h3>
+<div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,git,postgres,rider&perline=6" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,git,github,postgres,sqlite,docker,nginx,figma,unity&theme=dark" />
   </a>
-</p>
-
-### Frameworks & Platforms
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/dotnet" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=dotnet" alt="dotnet" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/unity" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=unity" alt="unity" width="40" height="40"/>
-  </a>
-</p>
-
-### Design & Prototyping
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/>
-  </a>
-</p>
-
-### Databases
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/sqlite" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="40" height="40"/>
-  </a>
-</p>
+</div>
 
 <!-- GitHub Stats -->
 <a href="https://roadmap.sh/aspnet-core?s=693723bbf33145208b6a35a9"><img src="https://roadmap.sh/card/tall/693723bbf33145208b6a35a9?variant=dark&roadmaps=aspnet-core" alt="Asp.Net roadmap.sh"/></a>
