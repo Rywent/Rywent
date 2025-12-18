@@ -75,7 +75,7 @@
     <summary><b>🗺️ Click to see my ASP.NET Learning Progress</b></summary>
     <br>
     <a href="https://roadmap.sh/aspnet-core?s=693723bbf33145208b6a35a9">
-      <img src="https://roadmap.sh/card/tall/693723bbf33145208b6a35a9?variant=dark&roadmaps=aspnet-core?v=2" alt="Asp.Net roadmap.sh"/>
+      <img src="https://roadmap.sh/card/tall/693723bbf33145208b6a35a9?variant=dark&roadmaps=aspnet-core&v=12345" alt="Asp.Net roadmap.sh"/>
     </a>
   </details>
 </div>
