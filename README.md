@@ -39,7 +39,7 @@
       <div align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=Rywent&show_icons=true&count_private=true&hide_border=true&title_color=007FFF&icon_color=007FFF&text_color=ffffff&bg_color=0d1117&hide_rank=true" width="100%" />
         <br>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rywent&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=0d1117&hide_progress=false&custom_title=Most%20Used%20Languages&langs_count=6&disable_animations=false&hide_title=false&stats_color=ffffff&icon_color=007FFF" width="100%"&v=1/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rywent&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=0d1117&hide_progress=false&custom_title=Most%20Used%20Languages&langs_count=6&disable_animations=false&hide_title=false&stats_color=ffffff&icon_color=007FFF" width="100%"/>
       </div>
     </td>
   </tr>
