@@ -1,11 +1,6 @@
-<div align="left" style="background-color: #000000; padding: 10px; border-radius: 6px;">
-  <span style="font-family: 'Consolas', monospace; color: #8b949e; font-size: 14px;">
-    &nbsp;&nbsp;&nbsp;&nbsp;root@server: ~/github/Rywent
-  </span>
-  <br />
-  <div style="margin-top: -10px;">
-    <img src="https://readme-typing-svg.demolab.com?font=VT323&size=30&pause=1000&color=00FF7F&background=000000&center=false&vCenter=true&width=1000&separator=%7C&lines=%E2%A0%80%E2%A0%80%24+Console.WriteLine(%22Rywent%22);|%E2%A0%80%E2%A0%80%24+var+dev+%3D+new+Developer(%22C%23%22);|%E2%A0%80%E2%A0%80%24+InitializeComponent();|%E2%A0%80%E2%A0%80%24+SELECT+*+FROM+Skills;|%E2%A0%80%E2%A0%80%24+dotnet+run+Backend.csproj|%E2%A0%80%E2%A0%80%24+Ready+to+code..." alt="Rywent Console" width="100%" />
-  </div>
+<div align="center">
+  <img src="https://img.shields.io/badge/root%40server%3A%20~%2Fgithub%2FRywent-000000?style=flat-square&logo=linux&logoColor=white&labelColor=000000&color=000000" alt="Terminal Header" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=30&pause=1000&color=00FF7F&background=000000&center=false&vCenter=true&width=1000&separator=%7C&lines=%E2%A0%80%E2%A0%80%24+Console.WriteLine(%22Rywent%22);|%E2%A0%80%E2%A0%80%24+var+dev+%3D+new+Developer(%22C%23%22);|%E2%A0%80%E2%A0%80%24+InitializeComponent();|%E2%A0%80%E2%A0%80%24+SELECT+*+FROM+Skills;|%E2%A0%80%E2%A0%80%24+dotnet+run+Backend.csproj|%E2%A0%80%E2%A0%80%24+Ready+to+code..." alt="Rywent Console" width="100%" />
 </div>
 
 
