@@ -1,11 +1,7 @@
 <div align="center">
-  <div align="left" style="max-width: 1000px; width: 100%; margin: 0 auto; padding-left: 20px; box-sizing: border-box;">
-    <img src="https://img.shields.io/badge/root%40server%3A%20~%2Fgithub%2FRywent-000000?style=flat-square&labelColor=000000&color=000000&logoColor=white" alt="Terminal Header" />
-  </div>
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=30&pause=1000&color=00FF7F&background=000000&center=false&vCenter=true&width=1000&height=50&separator=%7C&lines=%E2%A0%80%E2%A0%80%24+Console.WriteLine(%22Rywent%22);|%E2%A0%80%E2%A0%80%24+var+dev+%3D+new+Developer(%22C%23%22);|%E2%A0%80%E2%A0%80%24+InitializeComponent();|%E2%A0%80%E2%A0%80%24+SELECT+*+FROM+Skills;|%E2%A0%80%E2%A0%80%24+dotnet+run+Backend.csproj|%E2%A0%80%E2%A0%80%24+Ready+to+code..." 
-       alt="Rywent Console" style="width: 100%; max-width: 1000px; display: block; margin: 0 auto;" />
+  <img src="https://raw.githubusercontent.com/Rywent/rywent-assets/main/terminal-header.svg" alt="Terminal Header" width="900" style="margin-bottom: -6px;" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2500&pause=1000&color=A9B7C6&background=1E1E1E&center=false&vCenter=true&width=900&height=300&lines=%24+source+rywent_profile.sh;%24+loading+developer+data...;%3E+Name%3A+Rywent;%3E+Role%3A+Backend+Developer+(C%23%2F.NET);%3E+Stack%3A+WPF%2C+ASP.NET%2C+Git%2C+SQL;%3E+Status%3A+Ready+to+code..._" alt="Rywent Terminal" />
 </div>
-
 <br />
 
 <p align="center">
