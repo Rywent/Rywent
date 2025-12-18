@@ -13,15 +13,11 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Rywent&style=flat-square&color=007FFF" alt="Profile views" />
-  
-  &nbsp; &nbsp;
-  
-  <a href="https://github.com/Rywent?tab=followers">
+  &nbsp;
+  <a href="https://github.com/Rywent">
     <img src="https://img.shields.io/github/followers/Rywent?label=Follow&style=social" alt="GitHub followers" />
   </a>
-
-  &nbsp; &nbsp; 
-
+  &nbsp;
   <a href="https://github.com/Rywent?tab=repositories">
     <img src="https://img.shields.io/github/stars/Rywent?style=social" alt="Total Stars" />
   </a>
