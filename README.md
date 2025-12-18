@@ -9,18 +9,18 @@
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/f606466f-4cc9-4cb1-8ad6-80a7eeea9e7e" alt="Fight Club" width="600" />
 </p>
 
-<h3 align="center">👨‍💻 WPF Desktop & Backend Developer</h3>
+<h3 align="center">💎 WPF Desktop & Backend Developer</h3>
 
 <table border="0" width="100%">
   <tr>
     <td width="55%" valign="top">
-      <h3 align="left">🚀 What I'm doing</h3>
+      <h3 align="left">⚡ What I'm doing</h3>
       <ul>
         <li>🔭 Building <b>WinTrayMemory</b> – tray tool for process monitoring and smart RAM cleanup.</li>
         <li>🌱 Leveling up in <b>WPF, ASP.NET & backend architecture</b>.</li>
         <li>👀 Open to collaborating on interesting <b>open-source utilities</b>.</li>
       </ul>
-      <h3 align="left">🛠 Languages & Tools</h3>
+      <h3 align="left">💻 Languages & Tools</h3>
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,git,github,postgres,sqlite,figma,unity&theme=dark" />
       </a>
@@ -28,10 +28,10 @@
       <h3 align="left">📬 Connect with me</h3>
       <p align="left">
         <a href="https://github.com/Rywent" target="_blank">
-          <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+          <img src="https://img.shields.io/badge/GitHub-007FFF?style=for-the-badge&logo=github&logoColor=white" />
         </a>
         <a href="https://t.me/Ryweent" target="_blank">
-          <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+          <img src="https://img.shields.io/badge/Telegram-007FFF?style=for-the-badge&logo=telegram&logoColor=white" />
         </a>
       </p>
     </td>
@@ -39,7 +39,7 @@
       <div align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=Rywent&show_icons=true&count_private=true&hide_border=true&title_color=007FFF&icon_color=007FFF&text_color=ffffff&bg_color=0d1117&hide_rank=true" width="100%" />
         <br>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rywent&layout=compact&hide_border=true&title_color=007FFF&text_color=ffffff&bg_color=0d1117" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rywent&layout=compact&hide_border=true&title_color=007FFF&text_color=ffffff&bg_color=0d1117&hide_progress=false&custom_title=Most%20Used%20Languages&langs_count=6&disable_animations=false&hide_title=false&stats_color=ffffff&icon_color=007FFF" width="100%" />
       </div>
     </td>
   </tr>
