@@ -46,18 +46,16 @@
   </tr>
 </table>
 
-<h3 align="center">💻 Featured Projects</h3>
-<div align="Left">
+<h3 align="left">💻 Featured Projects</h3>
+<div align="left">
   <a href="https://github.com/Rywent/WinTrayMemory">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rywent&repo=WinTrayMemory&title_color=00FF7F&icon_color=00FF7F&text_color=ffffff&bg_color=0d1117&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rywent&repo=WinTrayMemory&title_color=00FF7F&icon_color=00FF7F&text_color=ffffff&bg_color=161b22&hide_border=true" />
   </a>
 </div>
-<br>
 
-
-<h3 align="center">🐍 Contribution Activity</h3>
 <div align="center">
-<img src="https://github.com/Rywent/Rywent/raw/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  <b>🐍 Contribution Activity</b>
+  <img src="https://github.com/Rywent/Rywent/raw/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </div>
 
 <!-- GitHub Stats -->
