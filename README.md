@@ -46,6 +46,11 @@
   </tr>
 </table>
 
+<h3 align="center">🐍 Contribution Activity</h3>
+<div align="center">
+  <img src="https://github.com/Rywent/Rywent/raw/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</div>
+
 <!-- GitHub Stats -->
 <a href="https://roadmap.sh/aspnet-core?s=693723bbf33145208b6a35a9"><img src="https://roadmap.sh/card/tall/693723bbf33145208b6a35a9?variant=dark&roadmaps=aspnet-core" alt="Asp.Net roadmap.sh"/></a>
 
