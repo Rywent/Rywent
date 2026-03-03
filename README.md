@@ -69,13 +69,3 @@
   <img src="https://github.com/Rywent/Rywent/raw/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </div>
 
-<!-- GitHub Stats -->
-<div align="center">
-  <details>
-    <summary><b>🗺️ Click to see my ASP.NET Learning Progress</b></summary>
-    <br>
-    <a href="https://roadmap.sh/aspnet-core?s=693723bbf33145208b6a35a9">
-      <img src="https://roadmap.sh/card/tall/693723bbf33145208b6a35a9?variant=dark&roadmaps=aspnet-core&v=1772503050" alt="Asp.Net roadmap.sh"/>
-    </a>
-  </details>
-</div>
