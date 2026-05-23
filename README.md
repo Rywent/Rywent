@@ -1,9 +1,3 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&pause=1000&color=F7F7F7&background=000000&center=false&vCenter=true&width=1000&height=50&separator=%7C&lines=%E2%A0%80%E2%A0%80%24+Console.WriteLine(%22Rywent%22);|%E2%A0%80%E2%A0%80%24+var+dev+%3D+new+Developer(%22C%23%22);|%E2%A0%80%E2%A0%80%24+InitializeComponent();|%E2%A0%80%E2%A0%80%24+SELECT+*+FROM+Skills;|%E2%A0%80%E2%A0%80%24+dotnet+run+Backend.csproj|%E2%A0%80%E2%A0%80%24+Ready+to+code..." 
-       alt="Rywent Console" style="width: 100%; max-width: 1000px; display: block; margin: 0 auto;" />
-</div>
-
-<br />
 
 <p align="center">
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/f606466f-4cc9-4cb1-8ad6-80a7eeea9e7e" alt="Fight Club" width="600" />
