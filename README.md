@@ -3,7 +3,7 @@
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/f606466f-4cc9-4cb1-8ad6-80a7eeea9e7e" alt="Fight Club" width="600" />
 </p>
 
-<h3 align="center">💎 WPF Desktop & Backend Developer</h3>
+<h3 align="center">WPF Desktop, Android mobile & Backend Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Rywent&style=flat-square&color=007FFF&label=Views" alt="Views" />
@@ -22,14 +22,14 @@
     <td width="55%" valign="top">
       <h3 align="left"><font color="#007FFF">  What I'm doing</font></h3>
       <ul>
-        <li>🔭 Building <b>PixelHabit</b> – A lightweight Material 3 design app for your habits .</li>
-        <li>🌱 Leveling up in <b>WPF, ASP.NET & backend architecture</b>.</li>
-        <li>👀 Open to collaborating on interesting <b>open-source utilities</b>.</li>
+        <li>Building <b>PixelHabit</b> – A lightweight Material 3 design app for your habits .</li>
+        <li>Leveling up in <b>WPF, ASP.NET & backend architecture</b>.</li>
+        <li>Open to collaborating on interesting <b>open-source-utilities</b>.</li>
       </ul>
-      <h3 align="left">💻 Languages & Tools</h3>
+      <h3 align="left">Languages & Tools</h3>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,git,github,postgres,sqlite,figma,unity&theme=dark" />
-      </a>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,git,github,postgres,sqlite,figma,unity,kotlin,androidstudio,rider&theme=dark" />
+</a>
       <br><br>
       <h3 align="left">📬 Connect with me</h3>
       <p align="left">
@@ -55,6 +55,9 @@
 <div align="left">
   <a href="https://github.com/Rywent/WinTrayMemory">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rywent&repo=WinTrayMemory&title_color=007FFF&icon_color=007FFF&text_color=ffffff&bg_color=161b22&hide_border=true" />
+  </a>
+  <a href="https://github.com/Rywent/PixelHabit">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rywent&repo=PixelHabit&title_color=007FFF&icon_color=007FFF&text_color=ffffff&bg_color=161b22&hide_border=true" />
   </a>
 </div>
 
