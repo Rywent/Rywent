@@ -52,12 +52,12 @@
 </table>
 
 <h3 align="center">💻 Featured Projects</h3>
-<div align="left">
+<div align="center" style="display: flex; justify-content: center; gap: 20px; align-items: stretch;">
   <a href="https://github.com/Rywent/WinTrayMemory">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rywent&repo=WinTrayMemory&title_color=007FFF&icon_color=007FFF&text_color=ffffff&bg_color=161b22&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rywent&repo=WinTrayMemory&title_color=007FFF&icon_color=007FFF&text_color=ffffff&bg_color=161b22&hide_border=true" Height="350"/>
   </a>
   <a href="https://github.com/Rywent/PixelHabit">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rywent&repo=PixelHabit&title_color=007FFF&icon_color=007FFF&text_color=ffffff&bg_color=161b22&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rywent&repo=PixelHabit&title_color=007FFF&icon_color=007FFF&text_color=ffffff&bg_color=161b22&hide_border=true" Height="350"/>
   </a>
 </div>
 
