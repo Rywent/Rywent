@@ -3,7 +3,7 @@
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/f606466f-4cc9-4cb1-8ad6-80a7eeea9e7e" alt="Fight Club" width="600" />
 </p>
 
-<h3 align="center">WPF Desktop, Android mobile & Backend Developer</h3>
+<h3 align="center">Fullstack Developer | React, TypeScript & ASP.NET Core | WPF Desktop</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Rywent&style=flat-square&color=007FFF&label=Views" alt="Views" />
