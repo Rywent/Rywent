@@ -6,6 +6,12 @@
 <h3 align="center">Fullstack Developer | React, TypeScript & ASP.NET Core | WPF Desktop</h3>
 
 <p align="center">
+  <a href="https://yaroslav-dev.yakuzminwork.workers.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/_Portfolio-18181B?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Portfolio" />
+  </a>
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Rywent&style=flat-square&color=007FFF&label=Views" alt="Views" />
   &nbsp;
   <a href="https://github.com/Rywent">
