@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://yaroslav-dev.yakuzminwork.workers.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/_Portfolio-18181B?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/_Portfolio-18181B?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Portfolio Website" />
   </a>
 </p>
 
