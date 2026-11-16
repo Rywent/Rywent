@@ -79,7 +79,7 @@
         <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
         <img src="https://img.shields.io/badge/.NET%208-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
         <img src="https://img.shields.io/badge/WPF-0078D4?style=flat-square&logo=windows&logoColor=white" />
-        <img src="https://img.shields.io/github/stars/Rywent/WinTrayMemory?style=flat-square" />
+        <img src="https://img.shields.io/github/⭐ stars/Rywent/WinTrayMemory?style=flat-square" />
       </p>
     </td>
     <td width="50%" valign="top">
@@ -89,7 +89,7 @@
         <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
         <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" />
         <img src="https://img.shields.io/badge/Material%203-6750A4?style=flat-square&logo=materialdesign&logoColor=white" />
-        <img src="https://img.shields.io/github/stars/Rywent/PixelHabit?style=flat-square" />
+        <img src="https://img.shields.io/github/⭐ stars/Rywent/PixelHabit?style=flat-square" />
       </p>
     </td>
   </tr>
