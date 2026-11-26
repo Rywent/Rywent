@@ -41,28 +41,39 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>Tech Stack</h3>
-      <p><b>Backend</b></p>
-      <p>
-        <img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,sqlite,docker&theme=dark" />
-      </p>
-      <p><b>Frontend</b></p>
-      <p>
-        <img src="https://skillicons.dev/icons?i=ts,react,js,html,css&theme=dark" />
-      </p>
-      <p><b>Desktop</b></p>
-      <p>
-        <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,rider&theme=dark" />
-      </p>
-      <p><b>Android</b></p>
-      <p>
-        <img src="https://skillicons.dev/icons?i=kotlin,androidstudio&theme=dark" />
-      </p>
-      <p><b>Tools & Others</b></p>
-      <p>
-        <img src="https://skillicons.dev/icons?i=git,github,figma,unity,linux&theme=dark" />
-      </p>
-    </td>
+  <h3>Tech Stack</h3>
+  
+  <p><b>Backend</b></p>
+  <p>
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,sqlite,docker&theme=dark" />
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/Serilog-000000?style=for-the-badge&logo=serilog&logoColor=white" height="28"/>
+    <img src="https://img.shields.io/badge/AutoMapper-8A2BE2?style=for-the-badge&logo=automapper&logoColor=white" height="28"/>
+    <img src="https://img.shields.io/badge/FluentValidation-512BD4?style=for-the-badge&logo=fluent&logoColor=white" height="28"/>
+    <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" height="28"/>
+  </p>
+
+  <p><b>Frontend</b></p>
+  <p>
+    <img src="https://skillicons.dev/icons?i=ts,react,js,html,css&theme=dark" />
+  </p>
+
+  <p><b>Desktop</b></p>
+  <p>
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,rider&theme=dark" />
+  </p>
+
+  <p><b>Android</b></p>
+  <p>
+    <img src="https://skillicons.dev/icons?i=kotlin,androidstudio&theme=dark" />
+  </p>
+
+  <p><b>Tools & Others</b></p>
+  <p>
+    <img src="https://skillicons.dev/icons?i=git,github,figma,linux,docker&theme=dark" />
+  </p>
+</td>
   </tr>
 </table>
 
